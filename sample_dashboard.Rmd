@@ -1,0 +1,168 @@
+---
+title: 'Example Dashboard'
+author: "Bryce Murphy"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: united
+    orientation: rows
+runtime: shiny
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+library(DT)
+library(shiny)
+library(flexdashboard)
+library(lubridate)
+library(janitor)
+```
+
+
+
+```{r message = FALSE, echo = FALSE}
+
+
+path <- "C:/Users/Bryce/Desktop/Github_Projects/usoc_example/mock_wellness.csv"
+wellness <- read_csv(path)
+
+                                                                ##### DATA CLEANING #####
+# Change date to a date format using lubridate
+wellness$Date <- mdy(wellness$Date)
+
+# wellness <- aggregate(wellness[, 5:11], FUN = "mean", by = wellness$Athlete, wellness$Date)
+
+
+# Fix the 0's in the scale
+wellness_gather <-
+  wellness %>%
+  gather(key = wellness_var, value = measurement, -c(Date, Athlete, Team, Weekday))
+
+# Take the average of duplicate athletes on the same day
+wellness <- 
+  wellness_gather %>%
+  group_by(Date, Athlete, Team, Weekday, wellness_var) %>%
+  summarise_at(vars(matches("measurement")), mean) %>%
+  ungroup() %>%
+  spread(key = wellness_var, value = measurement)
+  
+
+# Create the scaled values by athlete
+wellness_clean <-
+  wellness %>%
+  clean_names() %>%
+  mutate(sleep_load = sleep_hours * sleep_quality,
+         sleep_quality_z = round(ave(sleep_quality, athlete, FUN = scale), digits = 2),
+         mood_z = round(ave(mood, athlete, FUN = scale), digits = 2),
+         readiness_to_train_z = round(ave(readiness_to_train, athlete, FUN = scale), digits = 2),
+         soreness_z = round(ave(soreness, athlete, FUN = scale), digits = 2),
+         stress_z = round(ave(stress, athlete, FUN = scale), digits = 2),
+         fatigue_z = round(ave(fatigue, athlete, FUN = scale), digits = 2)) %>%
+  group_by(athlete) %>%
+  mutate(daily_wellness = (sleep_quality + mood + readiness_to_train + soreness + stress + fatigue)/6,
+         daily_wellness = round(daily_wellness, digits = 2),
+         daily_wellness_z = round(ave(daily_wellness, athlete, FUN = scale), digits = 2))
+
+wellness_clean[is.na(wellness_clean)] <- 0
+
+# Create colors that will be used for wellness alerts
+wellness_clean$zcolors <- sapply(1:length(wellness_clean$daily_wellness_z), function(i) {
+  
+  if (is.na(wellness_clean$daily_wellness_z[i]))
+    return(NA)
+  
+  if (abs(wellness_clean$daily_wellness_z[i]) <= 1.5) {
+    return("green")
+  } else if (abs(wellness_clean$daily_wellness_z[i]) >= 2) {
+    return("red")
+  } else {
+    return("yellow")
+  }
+})
+    
+# Create team values
+team_wellness <- 
+  wellness_clean %>%
+  group_by(team, date) %>%
+  summarise(sleep_hours = round(mean(sleep_hours), digits = 2),
+            sleep_quality_z = round(mean(sleep_quality_z), digits = 2),
+            mood_z = round(mean(mood_z), digits = 2),
+            readiness_to_train_z = round(mean(readiness_to_train_z), digits = 2),
+            soreness_z = round(mean(soreness_z), digits = 2),
+            stress_z = round(mean(stress_z), digits = 2),
+            fatigue_z = round(mean(fatigue_z), digits = 2),
+            daily_wellness_z = round(mean(daily_wellness_z), digits = 2))
+
+team_wellness$zcolors <- sapply(1:length(team_wellness$daily_wellness_z), function(i) {
+  
+  if (is.na(team_wellness$daily_wellness_z[i]))
+    return(NA)
+  
+  if (abs(team_wellness$daily_wellness_z[i]) <= 1.5) {
+    return("green")
+  } else if (abs(team_wellness$daily_wellness_z[i]) >= 2) {
+    return("red")
+  } else {
+    return("yellow")
+  }
+})
+
+alert <- 
+  wellness_clean %>%
+  select(date, athlete, sleep_quality_z, mood_z, readiness_to_train_z, soreness_z, stress_z, fatigue_z) %>%
+  gather(key = wellness_var, value = z_score, -c(date, athlete))
+
+```
+
+Team Overview
+==================================
+
+Sidebar{.sidebar}
+----------------------------------
+
+```{r echo = FALSE}
+
+dateInput("date",
+          label = "Choose Date:",
+          value = max(team_wellness$date), 
+          weekstart = 1)
+
+```
+
+Wellness Alert
+```{r echo = FALSE}
+
+
+renderPrint({
+
+alert <- 
+  wellness_clean %>%
+  filter(date == input$date) %>%
+  select(date, athlete, sleep_quality_z, mood_z, readiness_to_train_z, soreness_z, stress_z, fatigue_z) %>%
+  gather(key = wellness_var, value = z_score, -c(date, athlete))
+
+for (i in 1:length(alert$athlete)) {
+   if (alert$z_score[[i]] < -2) {
+  print(paste(alert$athlete[[i]], "-", alert$wellness_var[[i]]))
+ } 
+}
+
+})
+
+```
+
+Row
+----------------------------------
+
+
+
+
+
+
+
+
+
+
