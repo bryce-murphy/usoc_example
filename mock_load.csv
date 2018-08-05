@@ -1,0 +1,984 @@
+Date,Weekday,Athlete,Team,Injury/Illness Status,Training Availability,Injury First Time Report,Injury Type,Training/NoTraining,Training Location,Travel/No Travel,Travel Hours,Travel Difficulty,Competition RPE,Competition Duration,Competition Load,Conditioning Load,Conditioning Duration,Conditioning RPE,Practice Load,Practice Duration,Practice RPE,Strength Load,Strength Duration,Strength RPE,Competition Perceived Performance,Conditioning Perceived Performance,Practice Perceived Performance,Strength Training Perceived Performance,Recovery Modality
+1/30/2018,Thursday,Athlete 16,Team 2,Yes,100,New Injury,Sprain (ligament injury),No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+1/31/2018,Thursday,Athlete 4,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,248,62,4,,,,,,6,,I did not engage in any recovery modalities today
+1/31/2018,Thursday,Athlete 18,Team 2,Yes,50,New Injury,Sprain (ligament injury),Yes,At my home location,No,,,,,,,,,105,35,3,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+1/31/2018,Thursday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,448,64,7,248,62,4,,,5,8,"Contrast Bath, Stretching/Foam Rolling"
+1/31/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,300,60,5,,,7,8,Normatech
+1/31/2018,Thursday,Athlete 6,Team 1,Yes,100,New Injury,Contusion (bruise),Yes,At my home location,No,,,,,,,,,300,60,5,240,60,4,,,5,6,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+1/31/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,488,61,8,240,60,4,,,5,7,"Normatech, Stretching/Foam Rolling"
+1/31/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,240,60,4,,,,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+1/31/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,476,68,7,360,72,5,,,7,6,"Contrast Bath, Stretching/Foam Rolling, Massage"
+1/31/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,360,45,8,360,60,6,240,60,4,,7,9,7,"Hot Tub, Yoga, Ice Bath/Cryotherapy"
+1/31/2018,Thursday,Athlete 13,Team 2,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,300,60,5,210,70,3,,,7,6,"Stretching/Foam Rolling, Massage"
+1/31/2018,Thursday,Athlete 20,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+1/31/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,61,0,244,61,4,,,,7,"Contrast Bath, Stretching/Foam Rolling"
+2/1/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,,60,,,,3,7,"Stretching/Foam Rolling, Massage"
+2/1/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,200,50,4,,,7,7,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+2/1/2018,Saturday,Athlete 4,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/1/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,75,4,,,,,,,,"Hot Tub, Stretching/Foam Rolling"
+2/1/2018,Friday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,,,,,,7,,"Contrast Bath, Massage"
+2/1/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,,,,,,8,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/1/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,,,,,,9,,Contrast Bath
+2/1/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,,,,,,10,,Stretching/Foam Rolling
+2/1/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,244,61,4,,,,,,5,,Hot Tub
+2/1/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,,,,,,6,,Active Recovery (Walk/Cooldown)
+2/1/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,180,30,6,120,60,2,,,,,7,6,,"Hot Tub, Stretching/Foam Rolling"
+2/1/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,21,5,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/1/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/1/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,Yes,20,4,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/1/2018,Saturday,Athlete 17,Team 2,No,100,Healthy,,No,,Yes,21,6,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/1/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,375,75,5,,,,,,9,,"Contrast Bath, Yoga, Stretching/Foam Rolling"
+2/2/2018,Friday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,256,64,4,,,,,,9,,"Active Recovery (Walk/Cooldown), Massage"
+2/2/2018,Friday,Athlete 4,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,174,58,3,,,,,,7,,I did not engage in any recovery modalities today
+2/2/2018,Friday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Ice Bath/Cryotherapy, Massage"
+2/2/2018,Friday,Athlete 13,Team 2,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,120,60,2,,,,,,8,,Active Recovery (Walk/Cooldown)
+2/2/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/2/2018,Sunday,Athlete 4,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/2/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/2/2018,Saturday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/2/2018,Saturday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/2/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/3/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/3/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,12,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/3/2018,Sunday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,Yes,21,5,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), I did not engage in any recovery modalities today"
+2/3/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,No,,Yes,20,8,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/3/2018,Monday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,231,33,7,118,59,2,284,71,4,,8,10,10,"Contrast Bath, Normatech, Stretching/Foam Rolling"
+2/3/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/3/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga"
+2/3/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,No,,Yes,16,7,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/3/2018,Sunday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/3/2018,Sunday,Athlete 3,Team 1,No,100,Healthy,,No,,Yes,20,3,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga"
+2/3/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/3/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/4/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/4/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/4/2018,Monday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/4/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/4/2018,Monday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/4/2018,Monday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Stretching/Foam Rolling, Game Ready"
+2/4/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/4/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,168,21,8,0,0,,420,60,7,,8,,9,Active Recovery (Walk/Cooldown)
+2/4/2018,Monday,Athlete 1,Team 1,Yes,100,New Injury,Contusion (bruise),Yes,At my home location,No,,,,,,180,30,6,420,120,2,300,60,5,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+2/4/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/5/2018,Monday,Athlete 5,Team 1,Yes,49,New Injury,Strain (muscle injury) ,Yes,At my home location,No,,,,,,186,31,6,0,0,,240,60,4,,9,,8,I did not engage in any recovery modalities today
+2/5/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,180,60,3,,,7,6,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/5/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,320,40,8,660,120,4,240,60,4,,6,6,9,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/5/2018,Monday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/5/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,300,60,5,300,60,5,,,9,9,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/5/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,402,67,6,315,63,5,,,8,7,"Yoga, Stretching/Foam Rolling"
+2/5/2018,Tuesday,Athlete 3,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,260,65,4,201,67,3,,,7,9,Active Recovery (Walk/Cooldown)
+2/5/2018,Tuesday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,270,90,3,240,60,4,,,7,8,"Normatech, Stretching/Foam Rolling, Game Ready"
+2/5/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,210,30,7,480,120,3,230,46,5,,10,8,10,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+2/5/2018,Tuesday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/5/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,0,60,0,240,60,4,,,7,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/5/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,360,45,8,540,105,4,300,60,5,,7,7,9,Game Ready
+2/5/2018,Tuesday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,405,45,9,244,61,4,240,60,4,,7,8,9,"Contrast Bath, Normatech, Stretching/Foam Rolling"
+2/5/2018,Tuesday,Athlete 4,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,270,30,9,180,45,4,295,59,5,,4,7,8,Contrast Bath
+2/5/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,240,60,4,110,55,2,,,5,7,Stretching/Foam Rolling
+2/5/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,210,30,7,525,105,4,240,60,4,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Normatech, Yoga, Stretching/Foam Rolling"
+2/5/2018,Tuesday,Athlete 5,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/6/2018,Wednesday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+2/6/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,396,44,9,180,45,4,177,59,3,,7,7,9,Stretching/Foam Rolling
+2/6/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,170,34,5,,,10,10,"Yoga, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/6/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,420,60,7,160,40,4,,,6,6,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+2/6/2018,Thursday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage, Game Ready"
+2/6/2018,Thursday,Athlete 3,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,290,58,5,,,,,,8,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/6/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,102,51,2,,,6,7,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/6/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/6/2018,Wednesday,Athlete 3,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,414,69,6,240,60,4,,,6,10,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/6/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,250,50,5,,,8,8,Ice Bath/Cryotherapy
+2/6/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/6/2018,Wednesday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/6/2018,Wednesday,Athlete 5,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/6/2018,Wednesday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,540,90,6,250,50,5,,,7,7,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling, Massage, Game Ready"
+2/7/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling, Massage"
+2/7/2018,Thursday,Athlete 17,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,5,20,100,,,,0,0,,,,,8,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+2/7/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Game Ready
+2/7/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/7/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/7/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/7/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,240,30,8,0,0,,240,60,4,,8,,8,"Hot Tub, Stretching/Foam Rolling"
+2/7/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,400,50,8,0,0,,240,60,4,,10,,10,"Active Recovery (Walk/Cooldown), Normatech"
+2/7/2018,Friday,Athlete 3,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,8,70,560,,,,0,0,,,,,5,,,,"Normatech, Ice Bath/Cryotherapy"
+2/7/2018,Thursday,Athlete 5,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Yoga, Stretching/Foam Rolling"
+2/7/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,360,45,8,0,0,,300,60,5,,6,,9,Game Ready
+2/8/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,280,40,7,0,0,,240,60,4,,10,,9,"Hot Tub, Stretching/Foam Rolling"
+2/8/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,,,,,,10,,"Yoga, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/8/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,300,60,5,,,,,,7,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling, Massage"
+2/8/2018,Friday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,180,60,3,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/8/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,,,,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+2/8/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,405,45,9,900,150,4,336,56,6,,9,8,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/8/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,217,31,7,480,60,8,300,60,5,,7,8,6,"Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/8/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,964,151,4,225,45,5,,,7,7,"Stretching/Foam Rolling, Massage"
+2/8/2018,Friday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/8/2018,Friday,Athlete 5,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/8/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,140,20,7,135,45,3,225,45,5,,9,10,8,"Contrast Bath, Stretching/Foam Rolling"
+2/9/2018,Saturday,Athlete 17,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,5,20,100,,,,0,0,,,,,6,,,,Ice Bath/Cryotherapy
+2/9/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,1020,150,4,300,60,5,,,6,6,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/9/2018,Sunday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/9/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,4,10,40,,,,0,0,,,,,5,,,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+2/9/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,7,,,,"Yoga, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/9/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,24,5,,,,,,,0,0,,,,,,,,,Yoga
+2/9/2018,Sunday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+2/9/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,9,70,630,,,,0,0,,,,,6,,,,Ice Bath/Cryotherapy
+2/9/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,5,5,25,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/9/2018,Saturday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+2/9/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/9/2018,Saturday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,8,70,560,,,,0,0,,,,,8,,,,"Ice Bath/Cryotherapy, Massage"
+2/9/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/9/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,420,60,7,0,0,,,,,,9,,,Stretching/Foam Rolling
+2/9/2018,Saturday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/9/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/10/2018,Sunday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,6,70,420,,,,0,0,,,,,7,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/10/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,225,45,5,0,0,,,,,,8,,,Stretching/Foam Rolling
+2/10/2018,Monday,Athlete 17,Team 2,No,100,Healthy,,No,,Yes,24,5,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/10/2018,Sunday,Athlete 3,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,7,,,,Active Recovery (Walk/Cooldown)
+2/10/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,5,20,100,,,,0,0,,,,,7,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/10/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/10/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga"
+2/10/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/10/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Yoga, Stretching/Foam Rolling"
+2/11/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/11/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/11/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/11/2018,Tuesday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/11/2018,Tuesday,Athlete 2,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,7,1,7,602,86,7,224,56,4,,,7,,Active Recovery (Walk/Cooldown)
+2/11/2018,Monday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,Yes,20,4,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/11/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,No,,Yes,24,3,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/11/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,120,20,6,770,110,7,180,45,4,,10,7,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/11/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,100,20,5,540,90,6,240,60,4,,,7,6,"Active Recovery (Walk/Cooldown), Contrast Bath, Yoga, Stretching/Foam Rolling"
+2/11/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,140,20,7,840,105,8,360,60,6,,9,9,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/11/2018,Monday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,612,102,6,183,61,3,,,9,10,"Hot Tub, Yoga, Stretching/Foam Rolling"
+2/11/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,534,89,6,240,60,4,,,8,8,"Stretching/Foam Rolling, Massage"
+2/12/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,630,90,7,300,60,5,,,7,8,Stretching/Foam Rolling
+2/12/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,8,6,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/12/2018,Monday,Athlete 16,Team 2,No,29,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,54,27,2,,,,9,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/12/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,No,,Yes,24,6,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/12/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga"
+2/12/2018,Wednesday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/12/2018,Tuesday,Athlete 18,Team 2,No,95,Healthy,,Yes,At my home location,No,,,,,,160,20,8,420,70,6,180,45,4,,9,8,10,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+2/12/2018,Wednesday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Yoga, Game Ready"
+2/12/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,90,8,300,60,5,,,9,9,Massage
+2/12/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Yoga
+2/12/2018,Tuesday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,180,60,3,364,91,4,140,20,7,,10,10,9,Stretching/Foam Rolling
+2/12/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Massage
+2/12/2018,Tuesday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Massage"
+2/13/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,270,30,9,420,60,7,360,60,6,,8,8,10,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+2/13/2018,Tuesday,Athlete 16,Team 2,No,25,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,284,71,4,,,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/13/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+2/13/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,90,6,236,59,4,,,7,7,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+2/13/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,240,30,8,225,45,5,240,60,4,,8,2,7,Stretching/Foam Rolling
+2/13/2018,Thursday,Athlete 16,Team 2,No,25,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,147,49,3,,,,7,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/13/2018,Thursday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,244,61,4,,,,8,I did not engage in any recovery modalities today
+2/13/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/13/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,168,24,7,0,0,,360,60,6,,8,,10,"Contrast Bath, Stretching/Foam Rolling"
+2/13/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/13/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/13/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,420,60,7,0,0,,,,,,10,,,Massage
+2/13/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,136,17,8,0,0,,105,15,7,,9,,10,"Normatech, Stretching/Foam Rolling"
+2/13/2018,Wednesday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath"
+2/14/2018,Wednesday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+2/14/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Stretching/Foam Rolling"
+2/14/2018,Wednesday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/14/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,180,45,4,0,0,,,,,,5,,,Active Recovery (Walk/Cooldown)
+2/14/2018,Friday,Athlete 16,Team 2,No,28,ReturningToPlay,,Yes,At my home location,No,,,,,,62,31,2,0,0,,,,,,9,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/14/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,90,1,,,,,,,,Active Recovery (Walk/Cooldown)
+2/14/2018,Thursday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,375,75,5,,,,6,I did not engage in any recovery modalities today
+2/14/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,225,45,5,240,60,4,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/14/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,360,60,6,,,,9,Stretching/Foam Rolling
+2/14/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,80,20,4,0,0,,300,60,5,,7,,7,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+2/14/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,300,60,5,,,8,9,"Normatech, Stretching/Foam Rolling"
+2/14/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,236,59,4,275,55,5,,,7,10,Active Recovery (Walk/Cooldown)
+2/14/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,270,90,2,180,60,3,,,6,7,Stretching/Foam Rolling
+2/15/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,360,60,6,,,8,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/15/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,183,61,3,244,61,4,,,10,10,I did not engage in any recovery modalities today
+2/15/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,325,65,5,240,60,4,,,7,7,Active Recovery (Walk/Cooldown)
+2/15/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,245,35,7,0,0,,366,61,6,,9,,8,"Yoga, Ice Bath/Cryotherapy"
+2/15/2018,Friday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Normatech
+2/15/2018,Saturday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/15/2018,Saturday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/15/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/15/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,460,100,3,525,75,7,,,10,10,"Contrast Bath, Yoga"
+2/15/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,390,90,3,,,,,,9,,Normatech
+2/15/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,90,3,160,40,4,,,7,7,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+2/15/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,304,91,2,,,,,,8,,Active Recovery (Walk/Cooldown)
+2/15/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,Yes,8,6,,,,,,,360,90,2,,,,,,8,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+2/15/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,330,90,2,200,50,4,,,8,7,"Active Recovery (Walk/Cooldown), Contrast Bath"
+2/16/2018,Saturday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, I did not engage in any recovery modalities today"
+2/16/2018,Friday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,333,91,2,,,,,,7,,I did not engage in any recovery modalities today
+2/16/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,90,2,360,60,6,,,10,8,I did not engage in any recovery modalities today
+2/16/2018,Friday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,420,90,3,250,50,5,,,,6,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+2/16/2018,Saturday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga"
+2/16/2018,Sunday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/16/2018,Sunday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,Yes,4,,,,,,,,58,29,2,,,,,,7,,Active Recovery (Walk/Cooldown)
+2/16/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/16/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Yoga
+2/16/2018,Saturday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Ice Bath/Cryotherapy
+2/16/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/16/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/16/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/16/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/17/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Stretching/Foam Rolling"
+2/17/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/17/2018,Monday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,876,146,4,325,65,5,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/17/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,360,60,6,,,9,9,I did not engage in any recovery modalities today
+2/17/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Yoga
+2/17/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/18/2018,Sunday,Athlete 8,Team 1,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/18/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/18/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/18/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/18/2018,Monday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,325,65,5,168,56,3,,,7,,I did not engage in any recovery modalities today
+2/18/2018,Tuesday,Athlete 16,Team 2,No,26,ReturningToPlay,,Yes,At my home location,No,,,,,,62,31,2,0,0,,513,57,9,,9,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+2/18/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,180,20,9,420,122,2,366,61,6,,6,7,8,Normatech
+2/18/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,49,7,7,544,111,3,240,60,4,,9,7,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/18/2018,Monday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,120,2,180,60,3,,,10,10,"Contrast Bath, Normatech, Stretching/Foam Rolling"
+2/18/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,718,120,4,540,90,6,,,7,9,Contrast Bath
+2/18/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,120,3,240,60,4,,,8,8,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+2/18/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,300,60,5,,,7,10,"Hot Tub, Ice Bath/Cryotherapy"
+2/18/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,120,3,240,60,4,,,7,7,"Active Recovery (Walk/Cooldown), Contrast Bath, Yoga"
+2/19/2018,Monday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,682,136,3,280,56,5,,,8,9,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+2/19/2018,Tuesday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,870,145,4,300,60,5,,,,,"Stretching/Foam Rolling, Game Ready"
+2/19/2018,Monday,Athlete 8,Team 1,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,240,60,4,,,7,7,Stretching/Foam Rolling
+2/19/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,120,3,180,60,3,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/19/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,120,3,280,70,4,,,3,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/19/2018,Wednesday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,84,42,2,,,,,,8,,Active Recovery (Walk/Cooldown)
+2/19/2018,Wednesday,Athlete 8,Team 1,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Game Ready"
+2/19/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/19/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,420,60,7,,,4,10,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+2/19/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,768,128,4,576,96,6,,,9,8,Contrast Bath
+2/19/2018,Tuesday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,652,119,4,295,59,5,,,5,10,Ice Bath/Cryotherapy
+2/19/2018,Tuesday,Athlete 7,Team 1,Yes,70,New Injury,Contusion (bruise),Yes,At my home location,No,,,,,,,,,240,60,4,180,60,3,,,5,3,"Normatech, Game Ready"
+2/19/2018,Tuesday,Athlete 1,Team 1,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,240,60,4,,,,7,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/19/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,120,3,240,60,4,,,7,9,Stretching/Foam Rolling
+2/19/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,671,122,4,240,60,4,,,9,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/19/2018,Tuesday,Athlete 8,Team 1,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,300,60,5,,,8,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+2/20/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,120,2,240,60,4,,,,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/20/2018,Wednesday,Athlete 16,Team 2,No,22,ReturningToPlay,,Yes,At my home location,Yes,3,1,,,,230,115,2,0,0,,90,45,2,,10,,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/20/2018,Thursday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,Yes,7,5,,,,,,,768,128,4,220,55,4,,,8,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/20/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,987,130,5,366,61,6,,,8,7,Stretching/Foam Rolling
+2/20/2018,Thursday,Athlete 16,Team 2,No,40,ReturningToPlay,,Yes,At my home location,No,,,,,,,31,,0,0,,,,,,10,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/20/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Contrast Bath, Yoga"
+2/20/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga"
+2/20/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/20/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/21/2018,Wednesday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/21/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,315,45,7,0,0,,,,,,10,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/21/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/21/2018,Wednesday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Game Ready"
+2/21/2018,Wednesday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,9,9,1,,,,,,10,,"Stretching/Foam Rolling, Game Ready"
+2/21/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,90,45,2,,,,8,Ice Bath/Cryotherapy
+2/21/2018,Friday,Athlete 8,Team 1,Yes,75,ReturningToPlay,,Yes,At my home location,No,,,,,,300,60,5,0,0,,,,,,7,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+2/21/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,60,8,,,,,,10,,Contrast Bath
+2/21/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,100,9,,,,,,8,,"Normatech, Ice Bath/Cryotherapy"
+2/21/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,60,9,,,,,,,,"Contrast Bath, Stretching/Foam Rolling"
+2/21/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,667,121,4,240,60,4,,,8,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/21/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,426,71,6,,,7,,"Contrast Bath, Yoga"
+2/21/2018,Thursday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,836,122,5,310,62,5,,,7,8,Ice Bath/Cryotherapy
+2/21/2018,Friday,Athlete 6,Team 1,Yes,100,ReturningToPlay,Strain (muscle injury) ,Yes,At my home location,No,,,,,,,,,540,60,9,,,,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath"
+2/21/2018,Thursday,Athlete 8,Team 1,Yes,75,New Injury,Sprain (ligament injury),Yes,At my home location,No,,,,,,,,,300,60,5,300,60,5,,,5,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+2/21/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,840,120,5,360,60,6,,,8,8,"Hot Tub, Ice Bath/Cryotherapy, Massage"
+2/21/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,280,70,4,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/21/2018,Thursday,Athlete 18,Team 2,No,77,Healthy,,Yes,At my home location,No,,,,,,,,,590,130,3,240,60,4,,,8,10,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+2/21/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,120,3,300,60,5,,,7,8,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+2/21/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,300,60,5,,,6,,"Active Recovery (Walk/Cooldown), Contrast Bath, Normatech, Stretching/Foam Rolling"
+2/22/2018,Thursday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,1004,182,4,300,60,5,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/22/2018,Thursday,Athlete 7,Team 1,No,75,Healthy,,Yes,At my home location,No,,,,,,,,,544,121,3,186,62,3,,,10,9,"Active Recovery (Walk/Cooldown), Contrast Bath"
+2/22/2018,Saturday,Athlete 8,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+2/22/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/22/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,405,45,9,,,,,,8,,Ice Bath/Cryotherapy
+2/22/2018,Friday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,60,10,,,,,,3,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/22/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,77,0,336,56,6,,,8,8,"Contrast Bath, Yoga, Massage"
+2/22/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,540,60,9,0,0,,,,,,9,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/22/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,600,60,10,0,0,,,,,,6,,,"Active Recovery (Walk/Cooldown), Hot Tub, Ice Bath/Cryotherapy"
+2/22/2018,Saturday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/22/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,480,60,8,0,0,,,,,,7,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/23/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,450,50,9,,,,,,,,"Stretching/Foam Rolling, Massage"
+2/23/2018,Saturday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/23/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/23/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/23/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/23/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/23/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+2/23/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/24/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/24/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/24/2018,Monday,Athlete 16,Team 2,No,40,ReturningToPlay,,Yes,At my home location,No,,,,,,369,41,9,0,0,,512,64,8,,9,,9,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/24/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,300,60,5,,,8,7,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling, Massage"
+2/24/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/24/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Yoga, Stretching/Foam Rolling"
+2/24/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/24/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/24/2018,Monday,Athlete 7,Team 1,No,90,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,248,62,4,,,10,8,"Contrast Bath, Normatech"
+2/24/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+2/24/2018,Sunday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/25/2018,Sunday,Athlete 3,Team 1,No,100,Healthy,,No,,Yes,4,1,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/25/2018,Sunday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/25/2018,Sunday,Athlete 8,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/25/2018,Sunday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/25/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/25/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,300,60,5,,,9,8,"Contrast Bath, Yoga, Stretching/Foam Rolling"
+2/25/2018,Monday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,330,66,5,224,56,4,,,9,9,Normatech
+2/25/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,240,60,4,,,9,9,Ice Bath/Cryotherapy
+2/25/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,366,61,6,270,45,6,,,,,Stretching/Foam Rolling
+2/25/2018,Monday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,244,61,4,228,57,4,,,7,8,"Stretching/Foam Rolling, Game Ready"
+2/25/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,105,35,3,,,7,9,Stretching/Foam Rolling
+2/26/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,305,61,5,,,8,8,"Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/26/2018,Monday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,180,60,3,180,45,4,,,6,7,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+2/26/2018,Monday,Athlete 8,Team 1,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,240,60,4,240,60,4,,,7,7,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage, Game Ready"
+2/26/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,240,60,4,,,9,8,Stretching/Foam Rolling
+2/26/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,135,45,3,,,6,6,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/26/2018,Wednesday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,350,70,5,,,,,,,,Contrast Bath
+2/26/2018,Tuesday,Athlete 16,Team 2,Yes,37,Healthy,,Yes,At my home location,No,,,,,,280,35,8,0,0,,,,,,8,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+2/26/2018,Wednesday,Athlete 16,Team 2,No,37,ReturningToPlay,,Yes,At my home location,No,,,,,,336,42,8,0,0,,,,,,9,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+2/26/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,434,62,7,300,60,5,,,10,8,"Contrast Bath, Yoga, Stretching/Foam Rolling"
+2/26/2018,Tuesday,Athlete 8,Team 1,Yes,75,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,240,60,4,300,60,5,,,7,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage, Game Ready"
+2/26/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,300,60,5,,,7,6,"Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/26/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,126,42,3,,,6,10,Stretching/Foam Rolling
+2/26/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,150,50,3,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+2/26/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,240,60,4,,,9,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/26/2018,Tuesday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,295,59,5,232,58,4,,,9,9,"Contrast Bath, Normatech"
+2/26/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,180,60,3,,,8,8,"Normatech, Stretching/Foam Rolling"
+2/27/2018,Tuesday,Athlete 3,Team 1,Yes,100,New Injury,Strain (muscle injury),Yes,At my home location,No,,,,,,,,,546,78,7,,,,,,6,,Ice Bath/Cryotherapy
+2/27/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,240,60,4,,,,,"Contrast Bath, Stretching/Foam Rolling"
+2/27/2018,Tuesday,Athlete 17,Team 2,Yes,24,Healthy,,Yes,At my home location,No,,,,,,,,,51,51,1,232,58,4,,,,,I did not engage in any recovery modalities today
+2/27/2018,Tuesday,Athlete 6,Team 1,No,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,300,60,5,300,60,5,,,6,7,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+2/27/2018,Thursday,Athlete 3,Team 1,Yes,100,Healthy,,No,,Yes,6,2,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub"
+2/27/2018,Thursday,Athlete 16,Team 2,No,40,ReturningToPlay,,Yes,At my home location,No,,,,,,440,44,10,0,0,,392,56,7,,9,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+2/27/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,No,,Yes,7,1,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/27/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,180,60,3,,,,8,Ice Bath/Cryotherapy
+2/27/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,402,67,6,,,,,,8,,"Contrast Bath, Stretching/Foam Rolling"
+2/27/2018,Wednesday,Athlete 8,Team 1,Yes,50,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,300,60,5,,,,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage, Game Ready"
+2/27/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,372,62,6,,,,,,7,,I did not engage in any recovery modalities today
+2/27/2018,Wednesday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,260,65,4,,,,,,9,,Massage
+2/27/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,400,100,4,,,,,,,,"Contrast Bath, Yoga, Massage"
+2/27/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,184,46,4,,,,,,7,,Active Recovery (Walk/Cooldown)
+2/27/2018,Wednesday,Athlete 7,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Hot Tub
+2/27/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,,,,,,7,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+2/28/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,320,80,4,,,,,,6,,"Stretching/Foam Rolling, Massage"
+2/28/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,150,25,6,540,90,6,,,,,9,9,,I did not engage in any recovery modalities today
+2/28/2018,Wednesday,Athlete 17,Team 2,Yes,90,New Injury,Sprain (ligament injury),Yes,At my home location,No,,,,,,,,,540,90,6,,,,,,,,Ice Bath/Cryotherapy
+2/28/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,150,50,3,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+2/28/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/28/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,No,,Yes,7,8,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/28/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+2/28/2018,Thursday,Athlete 8,Team 1,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,160,40,4,,,,8,"Stretching/Foam Rolling, Game Ready"
+2/28/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,No,,Yes,7,1,,,,,,,0,0,,,,,,,,,Hot Tub
+2/28/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,720,90,8,0,0,,,,,,7,,,"Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+2/28/2018,Thursday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Game Ready
+2/28/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,8,2,,,,,,,0,0,,,,,,,,,"Yoga, Stretching/Foam Rolling"
+2/28/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+2/28/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,No,,Yes,7,8,,,,,,,0,0,,,,,,,,,"Hot Tub, Normatech"
+3/1/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,No,,Yes,7,3,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Massage"
+3/1/2018,Friday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,64,32,2,,,,8,"Ice Bath/Cryotherapy, Game Ready"
+3/1/2018,Thursday,Athlete 6,Team 1,No,100,ReturningToPlay,,No,,Yes,8,3,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+3/1/2018,Saturday,Athlete 15,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,798,114,7,784,112,7,,,,,6,7,,I did not engage in any recovery modalities today
+3/1/2018,Saturday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,8,70,560,,,,0,0,,,,,10,,,,"Ice Bath/Cryotherapy, Massage"
+3/1/2018,Saturday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,9,40,360,,,,0,0,,,,,7,,,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy, Massage"
+3/1/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,275,55,5,,,,,,8,,"Contrast Bath, Stretching/Foam Rolling"
+3/1/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,84,42,2,,,,,,7,,Contrast Bath
+3/1/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,300,50,6,,,,,,8,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/1/2018,Friday,Athlete 8,Team 1,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,240,60,4,,,,8,"Stretching/Foam Rolling, Massage, Game Ready"
+3/1/2018,Friday,Athlete 15,Team 2,No,100,Healthy,,No,,Yes,10,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/1/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,180,45,4,,,,,,7,,"Active Recovery (Walk/Cooldown), Hot Tub, Ice Bath/Cryotherapy"
+3/1/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,138,46,3,,,,10,I did not engage in any recovery modalities today
+3/2/2018,Saturday,Athlete 6,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,6,70,420,,,,0,0,,,,,5,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/2/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,6,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+3/2/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/2/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/2/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Hot Tub
+3/2/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/2/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,8,70,560,,,,0,0,,,,,8,,,,"Ice Bath/Cryotherapy, Massage"
+3/3/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,8,100,800,,,,0,0,,,,,10,,,,"Hot Tub, Stretching/Foam Rolling, Massage"
+3/3/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,4,10,40,,,,0,0,,,,,6,,,,"Hot Tub, Ice Bath/Cryotherapy, Massage"
+3/3/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,3,10,30,,,,0,0,,,,,10,,,,"Hot Tub, Normatech, Ice Bath/Cryotherapy"
+3/3/2018,Saturday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,150,30,5,0,0,,,,,,8,,,Ice Bath/Cryotherapy
+3/3/2018,Monday,Athlete 16,Team 2,No,38,ReturningToPlay,,Yes,At my home location,No,,,,,,320,40,8,0,0,,,,,,8,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/3/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/3/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,No,,Yes,8,2,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/4/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,8,,,,"Contrast Bath, Yoga, Stretching/Foam Rolling"
+3/4/2018,Sunday,Athlete 6,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,6,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/4/2018,Sunday,Athlete 15,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/4/2018,Sunday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,7,50,350,,,,0,0,,,,,5,,,,Active Recovery (Walk/Cooldown)
+3/4/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,100,20,5,0,0,,120,40,3,,8,,8,"Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/4/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,3,5,15,,,,0,0,,,,,10,,,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+3/4/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/4/2018,Sunday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/4/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,Yes,8,8,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/4/2018,Tuesday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/4/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+3/4/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/4/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,140,20,7,0,0,,450,75,6,,8,,7,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+3/4/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/4/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,270,30,9,0,0,,360,60,6,,6,,8,"Hot Tub, Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/4/2018,Monday,Athlete 7,Team 1,No,79,Healthy,,Yes,At my home location,No,,,,,,210,30,7,0,0,,240,60,4,,9,,7,Stretching/Foam Rolling
+3/5/2018,Monday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/5/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,No,,Yes,9,3,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/5/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,9,7,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/5/2018,Monday,Athlete 6,Team 1,No,100,Healthy,,No,,Yes,9,3,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/5/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,No,,Yes,7,6,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/5/2018,Monday,Athlete 1,Team 1,Yes,100,New Injury,Strain (muscle injury),No,,Yes,8,7,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/5/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,Yes,8,6,,,,154,22,7,0,0,,,,,,10,,,I did not engage in any recovery modalities today
+3/5/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+3/5/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+3/5/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,No,,Yes,7,2,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/5/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/5/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/5/2018,Tuesday,Athlete 5,Team 1,Yes,100,New Injury,Strain (muscle injury),Yes,At my home location,No,,,,,,280,40,7,60,30,2,360,60,6,,8,9,9,"Stretching/Foam Rolling, Massage"
+3/5/2018,Tuesday,Athlete 7,Team 1,No,90,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,240,60,4,,,,8,Stretching/Foam Rolling
+3/6/2018,Tuesday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,217,31,7,0,0,,240,60,4,,10,,10,Ice Bath/Cryotherapy
+3/6/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/6/2018,Thursday,Athlete 1,Team 1,No,50,Healthy,,Yes,At my home location,No,,,,,,,,,60,60,1,180,60,3,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+3/6/2018,Thursday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,164,82,2,,,,,,,,"Contrast Bath, Stretching/Foam Rolling"
+3/6/2018,Thursday,Athlete 16,Team 2,No,24,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,62,31,2,,,,,,9,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+3/6/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/6/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,658,94,7,,,,9,"Normatech, Yoga, Stretching/Foam Rolling"
+3/6/2018,Wednesday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/6/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/6/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Massage"
+3/6/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Stretching/Foam Rolling"
+3/6/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/6/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,125,25,5,0,0,,300,75,4,,7,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+3/7/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,240,60,4,,,,9,"Normatech, Game Ready"
+3/7/2018,Wednesday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/7/2018,Wednesday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Ice Bath/Cryotherapy
+3/7/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,112,56,2,,,5,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/7/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,444,74,6,180,60,3,,,8,9,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+3/7/2018,Thursday,Athlete 7,Team 1,No,64,Healthy,,Yes,At my home location,No,,,,,,,,,303,120,2,,61,,,,10,9,"Contrast Bath, Normatech, Stretching/Foam Rolling, Game Ready"
+3/7/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,120,2,300,60,5,,,8,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/7/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,360,60,6,,,9,9,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/8/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,120,3,540,90,6,,,8,9,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/8/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,465,105,3,360,60,6,,,9,8,"Normatech, Ice Bath/Cryotherapy, Game Ready"
+3/8/2018,Thursday,Athlete 17,Team 2,Yes,50,ReturningToPlay,,Yes,At my home location,No,,,,,,217,31,7,0,0,,305,61,5,,9,,10,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/8/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,195,65,3,240,60,4,,,,6,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/8/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,120,3,375,75,5,,,7,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+3/8/2018,Thursday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,240,60,4,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/8/2018,Friday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,480,60,8,315,63,5,360,60,6,,6,,5,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/8/2018,Saturday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/8/2018,Saturday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub"
+3/8/2018,Friday,Athlete 1,Team 1,Yes,100,ReturningToPlay,,No,,Yes,8,4,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/8/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/8/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,927,123,5,420,60,7,,,9,8,"Contrast Bath, Yoga, Stretching/Foam Rolling"
+3/8/2018,Friday,Athlete 17,Team 2,Yes,50,ReturningToPlay,,Yes,At my home location,No,,,,,,568,71,8,0,0,,168,42,4,,9,,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/8/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,540,60,9,180,60,3,180,60,3,,8,8,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/8/2018,Friday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,962,139,4,228,57,4,,,9,9,Stretching/Foam Rolling
+3/8/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,838,120,5,,60,,,,7,8,Stretching/Foam Rolling
+3/8/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,480,60,8,180,60,3,300,60,5,,10,8,8,"Normatech, Stretching/Foam Rolling"
+3/9/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,120,5,300,60,5,,,8,8,"Normatech, Stretching/Foam Rolling"
+3/9/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,160,40,4,,,7,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+3/9/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,90,30,3,,,7,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/9/2018,Sunday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/9/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub"
+3/9/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/9/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+3/9/2018,Saturday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/9/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+3/10/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/10/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/10/2018,Saturday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/10/2018,Saturday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/10/2018,Monday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,300,60,5,,,,,"Contrast Bath, Stretching/Foam Rolling, Massage"
+3/10/2018,Monday,Athlete 16,Team 2,No,69,ReturningToPlay,,Yes,At my home location,No,,,,,,50,10,5,0,0,,600,75,8,,10,,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/10/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/10/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/10/2018,Sunday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/10/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Stretching/Foam Rolling"
+3/10/2018,Sunday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,96,48,2,,,,6,Stretching/Foam Rolling
+3/10/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/10/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,120,3,240,60,4,,,8,8,Stretching/Foam Rolling
+3/10/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/10/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/11/2018,Monday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Stretching/Foam Rolling"
+3/11/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/11/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,Yes,6,8,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/11/2018,Sunday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/11/2018,Tuesday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,840,120,5,360,60,6,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+3/11/2018,Tuesday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,782,118,4,236,59,4,,,5,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/11/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,997,151,5,468,78,6,,,9,,"Contrast Bath, Stretching/Foam Rolling"
+3/11/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,544,121,3,,,,,,6,,"Active Recovery (Walk/Cooldown), Normatech"
+3/11/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,744,124,4,384,64,6,,,8,7,Normatech
+3/11/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,825,135,4,360,60,6,,,5,7,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/11/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,300,60,5,,,7,7,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage, Game Ready"
+3/11/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,420,60,7,,,5,9,"Contrast Bath, Normatech"
+3/12/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,Yes,5,2,,,,,,,300,60,5,,,,,,7,,"Active Recovery (Walk/Cooldown), Contrast Bath"
+3/12/2018,Monday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,888,126,5,300,60,5,,,2,8,"Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/12/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,832,134,4,240,60,4,,,6,6,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/12/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,300,60,5,,,5,7,"Normatech, Stretching/Foam Rolling"
+3/12/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,375,75,5,,,8,9,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/12/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,120,3,240,60,4,,,8,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/13/2018,Tuesday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,707,128,4,284,71,4,,,8,9,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/13/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,840,120,5,420,60,7,,,5,9,Normatech
+3/13/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,787,121,4,567,81,7,,,9,9,"Contrast Bath, Stretching/Foam Rolling"
+3/13/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,240,60,4,,,6,,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+3/13/2018,Tuesday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,541,120,3,425,85,5,,,9,10,"Hot Tub, Contrast Bath, Normatech"
+3/13/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,120,3,183,61,3,,,6,5,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/13/2018,Thursday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,7,70,490,,,,0,0,,,,,6,,,,"Contrast Bath, Stretching/Foam Rolling"
+3/13/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,5,35,175,,,,0,0,,295,59,5,10,,,10,"Contrast Bath, Normatech"
+3/13/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/13/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Stretching/Foam Rolling"
+3/13/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Massage
+3/13/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Contrast Bath, Yoga, Stretching/Foam Rolling"
+3/13/2018,Wednesday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+3/13/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Yoga, Stretching/Foam Rolling"
+3/13/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/14/2018,Wednesday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/14/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,150,30,5,0,0,,180,45,4,,8,,8,Stretching/Foam Rolling
+3/14/2018,Wednesday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/14/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Massage"
+3/14/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage, Game Ready"
+3/14/2018,Friday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,324,36,9,653,113,4,,,,,7,7,,"Hot Tub, Ice Bath/Cryotherapy"
+3/14/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,7,100,700,,,,60,60,1,,,,8,,9,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/14/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,Yes,11,4,,,,84,12,7,315,45,7,,,,,7,8,,Stretching/Foam Rolling
+3/14/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,6,35,210,,,,0,0,,,,,8,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+3/14/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,960,120,5,469,67,7,,,7,9,Normatech
+3/14/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,120,5,300,60,5,,,7,7,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling, Game Ready"
+3/15/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,120,5,300,60,5,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Normatech, Stretching/Foam Rolling"
+3/15/2018,Thursday,Athlete 17,Team 2,Yes,100,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,727,91,5,360,72,5,,,6,7,"Hot Tub, Ice Bath/Cryotherapy"
+3/15/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,120,5,360,60,6,,,4,9,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/15/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,6,35,210,,,,0,0,,240,60,4,5,,,8,Stretching/Foam Rolling
+3/15/2018,Thursday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,651,93,4,,,,,,6,,"Hot Tub, Ice Bath/Cryotherapy, Massage"
+3/15/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,735,105,5,256,64,4,,,5,6,Stretching/Foam Rolling
+3/15/2018,Saturday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/15/2018,Friday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,7,70,490,,,,0,0,,300,60,5,6,,,5,"Contrast Bath, Stretching/Foam Rolling"
+3/15/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/15/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,620,100,4,,,,,,7,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/15/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,630,90,5,,,,,,6,,"Normatech, Stretching/Foam Rolling"
+3/15/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,168,28,6,0,0,,497,71,7,,,,8,"Yoga, Stretching/Foam Rolling"
+3/15/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,9,100,900,,,,0,0,,,,,6,,,,Ice Bath/Cryotherapy
+3/15/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,,,,,,7,,"Normatech, Game Ready"
+3/15/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,450,45,10,0,0,,,,,,10,,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/16/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,47,47,1,,,,10,,10,,"Hot Tub, Contrast Bath"
+3/16/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,90,5,,,,,,,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling, Massage"
+3/16/2018,Saturday,Athlete 6,Team 1,No,100,Healthy,,No,,Yes,7,2,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/16/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/16/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Stretching/Foam Rolling"
+3/16/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/16/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/16/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/17/2018,Saturday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/17/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/17/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,270,45,6,0,0,,,,,,9,,,Stretching/Foam Rolling
+3/17/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/17/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,375,75,5,360,60,6,,,6,6,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+3/17/2018,Sunday,Athlete 6,Team 1,No,100,Healthy,,No,,Yes,7,1,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/17/2018,Sunday,Athlete 3,Team 1,No,100,Healthy,,No,,Yes,6,0,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/17/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/17/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/17/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/17/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/17/2018,Sunday,Athlete 5,Team 1,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/18/2018,Sunday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/18/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,14,6,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/18/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/18/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/18/2018,Tuesday,Athlete 16,Team 2,No,78,ReturningToPlay,,Yes,At my home location,No,,,,,,280,40,7,0,0,,413,59,7,,9,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/18/2018,Monday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,295,59,5,320,64,5,,,7,,I did not engage in any recovery modalities today
+3/18/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,450,75,6,434,62,7,,,9,9,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/18/2018,Monday,Athlete 5,Team 1,Yes,100,Healthy,,Yes,At my home location,No,,,,,,90,15,6,240,60,4,240,60,4,,7,7,7,Stretching/Foam Rolling
+3/18/2018,Monday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,75,4,300,60,5,,,,,"Contrast Bath, Stretching/Foam Rolling"
+3/18/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,168,21,8,630,90,7,469,67,7,,7,7,8,Yoga
+3/19/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,280,40,7,655,115,4,420,60,7,,9,8,10,Stretching/Foam Rolling
+3/19/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,375,75,5,,,8,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/19/2018,Monday,Athlete 16,Team 2,No,79,ReturningToPlay,,Yes,At my home location,No,,,,,,195,39,5,0,0,,357,51,7,,9,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/19/2018,Monday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,236,59,4,300,60,5,,,10,10,"Contrast Bath, Stretching/Foam Rolling"
+3/19/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,413,59,7,,,10,8,I did not engage in any recovery modalities today
+3/19/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,240,60,4,,,6,6,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/19/2018,Tuesday,Athlete 2,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,236,59,4,,,5,,I did not engage in any recovery modalities today
+3/19/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,300,60,5,,,4,8,Stretching/Foam Rolling
+3/19/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,360,60,6,,,4,8,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/19/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,240,40,6,420,60,7,360,60,6,,9,6,9,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/19/2018,Tuesday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,796,134,4,360,60,6,,,7,8,"Contrast Bath, Normatech"
+3/19/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,434,62,7,,,8,8,Normatech
+3/19/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,300,60,5,,,6,,"Active Recovery (Walk/Cooldown), Contrast Bath, Yoga, Stretching/Foam Rolling, Massage"
+3/19/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,63,9,7,366,61,6,492,82,6,,8,9,8,"Contrast Bath, Stretching/Foam Rolling"
+3/20/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,236,59,4,,,8,8,Ice Bath/Cryotherapy
+3/20/2018,Tuesday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,300,60,5,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+3/20/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,240,60,4,,,8,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/20/2018,Tuesday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,212,53,4,,,3,7,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/20/2018,Tuesday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,180,2,300,60,5,,,10,10,I did not engage in any recovery modalities today
+3/20/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,300,60,5,,,6,6,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling, Massage"
+3/20/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,1206,181,4,260,65,4,,,8,10,"Contrast Bath, Normatech"
+3/20/2018,Thursday,Athlete 2,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,480,120,4,183,61,3,,,,,I did not engage in any recovery modalities today
+3/20/2018,Wednesday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Normatech
+3/20/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,413,59,7,,,,8,"Contrast Bath, Stretching/Foam Rolling"
+3/20/2018,Wednesday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/20/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Massage
+3/20/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+3/20/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/20/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/20/2018,Wednesday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Contrast Bath, Ice Bath/Cryotherapy"
+3/20/2018,Wednesday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Hot Tub
+3/21/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/21/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,240,40,6,0,0,,250,50,5,,9,,9,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/21/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,84,42,2,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/21/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/21/2018,Friday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,370,74,5,2,1,2,,,8,,"Normatech, Massage"
+3/21/2018,Friday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/21/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,,,,,,8,,Ice Bath/Cryotherapy
+3/21/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,300,60,5,,,7,8,Stretching/Foam Rolling
+3/21/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,60,0,,,,,,6,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+3/21/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,448,64,7,426,71,6,,,8,8,Contrast Bath
+3/21/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,504,63,8,366,61,6,,,,10,I did not engage in any recovery modalities today
+3/22/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,240,60,4,,,8,8,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/22/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,60,8,180,60,3,,,8,8,Ice Bath/Cryotherapy
+3/22/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,270,45,6,300,60,5,360,60,6,,9,8,9,Contrast Bath
+3/22/2018,Thursday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,280,56,5,270,54,5,,,4,7,Ice Bath/Cryotherapy
+3/22/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,488,61,8,171,57,3,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+3/22/2018,Friday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,60,8,360,60,6,,,,4,"Contrast Bath, Stretching/Foam Rolling"
+3/22/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,16,10,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/22/2018,Saturday,Athlete 17,Team 2,Yes,100,Healthy,,No,,Yes,20,3,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/22/2018,Saturday,Athlete 6,Team 1,No,100,Healthy,,No,,Yes,20,5,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/22/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/22/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,,,,,,7,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/22/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,789,103,6,,,,,,9,,"Contrast Bath, Stretching/Foam Rolling"
+3/22/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,,,,,,1,,Stretching/Foam Rolling
+3/22/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,413,59,7,,,,,,10,,"Contrast Bath, Normatech"
+3/22/2018,Friday,Athlete 2,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,228,57,4,,,,,,4,,"Stretching/Foam Rolling, Massage"
+3/22/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,0,0,1,,,9,5,I did not engage in any recovery modalities today
+3/22/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,240,60,4,,,6,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/22/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,504,63,8,,,,,,6,,Stretching/Foam Rolling
+3/23/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,60,0,,,,,,6,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+3/23/2018,Saturday,Athlete 2,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/23/2018,Friday,Athlete 17,Team 2,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/23/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,No,,Yes,20,8,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/23/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,455,65,7,,,,,,8,,I did not engage in any recovery modalities today
+3/23/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,Yes,20,3,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/23/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/23/2018,Saturday,Athlete 3,Team 1,No,100,Healthy,,No,,Yes,20,6,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/24/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/24/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/24/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,Yes,20,8,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/24/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,Yes,20,8,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/24/2018,Monday,Athlete 15,Team 2,Yes,75,New Injury,Sprain (ligament injury),Yes,Away from Home,No,,,,,,,,,0,0,,368,92,4,,,,,I did not engage in any recovery modalities today
+3/24/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/24/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,450,75,6,240,60,4,,,6,6,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/24/2018,Sunday,Athlete 6,Team 1,No,100,Healthy,,No,,Yes,20,4,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/24/2018,Sunday,Athlete 17,Team 2,Yes,100,Healthy,,No,,Yes,19,3,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/24/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/24/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,61,61,1,,,,,Hot Tub
+3/25/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/25/2018,Sunday,Athlete 2,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/25/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/25/2018,Sunday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/25/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,180,60,3,,,8,10,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/25/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,434,62,7,518,74,7,,,8,8,Ice Bath/Cryotherapy
+3/25/2018,Monday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,Away from Home,No,,,,,,,,,320,64,5,183,61,3,,,7,10,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/25/2018,Monday,Athlete 3,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,511,73,7,264,66,4,,,3,9,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/25/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,480,60,8,390,65,6,,,8,7,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+3/25/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,420,60,7,300,60,5,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/25/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,288,72,4,180,60,3,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Normatech, Stretching/Foam Rolling"
+3/25/2018,Monday,Athlete 6,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,240,60,4,300,60,5,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/25/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,450,75,6,0,0,,300,60,5,,7,,7,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+3/25/2018,Monday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,427,61,7,560,80,7,,,4,9,"Normatech, Stretching/Foam Rolling"
+3/25/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,60,8,236,59,4,,,8,8,"Normatech, Stretching/Foam Rolling"
+3/26/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,540,60,9,0,0,,560,80,7,,7,,9,Stretching/Foam Rolling
+3/26/2018,Monday,Athlete 16,Team 2,No,84,ReturningToPlay,,Yes,At my home location,No,,,,,,248,31,8,203,29,7,540,60,9,,9,9,9,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+3/26/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,420,60,7,,60,,,,7,9,Ice Bath/Cryotherapy
+3/26/2018,Wednesday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/26/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,720,90,8,300,60,5,,,8,8,I did not engage in any recovery modalities today
+3/26/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,450,90,5,,,,,,7,,"Yoga, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/26/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,450,90,5,240,60,4,,,6,8,"Ice Bath/Cryotherapy, Game Ready"
+3/26/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,630,90,7,330,55,6,,,8,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/26/2018,Tuesday,Athlete 6,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,540,90,6,300,60,5,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/26/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,540,90,6,90,30,3,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/26/2018,Tuesday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,Away from Home,No,,,,,,,,,810,90,9,126,42,3,,,6,8,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/26/2018,Tuesday,Athlete 16,Team 2,No,86,ReturningToPlay,,Yes,At my home location,No,,,,,,350,35,10,240,30,8,504,63,8,,9,9,9,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+3/26/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,60,7,180,60,3,,,8,8,"Normatech, Ice Bath/Cryotherapy"
+3/26/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,70,6,360,60,6,,,8,8,Active Recovery (Walk/Cooldown)
+3/26/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,305,61,5,,,8,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/26/2018,Tuesday,Athlete 7,Team 1,No,51,Healthy,,Yes,At my home location,No,,,,,,,,,60,60,1,232,58,4,,,,10,"Hot Tub, Contrast Bath, Normatech, Stretching/Foam Rolling"
+3/27/2018,Tuesday,Athlete 15,Team 2,Yes,80,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,360,120,3,180,60,3,,,5,5,Stretching/Foam Rolling
+3/27/2018,Thursday,Athlete 3,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,272,68,4,,,,,,7,,"Active Recovery (Walk/Cooldown), Normatech, Ice Bath/Cryotherapy"
+3/27/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Normatech, Stretching/Foam Rolling"
+3/27/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/27/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Game Ready
+3/27/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,180,2,300,60,5,,,10,10,"Normatech, Ice Bath/Cryotherapy"
+3/27/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,180,60,3,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/27/2018,Wednesday,Athlete 17,Team 2,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+3/27/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/27/2018,Thursday,Athlete 16,Team 2,Yes,75,New Injury,Strain (muscle injury),Yes,At my home location,No,,,,,,288,32,9,0,0,,464,58,8,,9,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/27/2018,Wednesday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/27/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,No,,Yes,8,7,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/28/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/28/2018,Wednesday,Athlete 15,Team 2,Yes,85,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,972,243,3,,,,,,6,,Stretching/Foam Rolling
+3/28/2018,Friday,Athlete 6,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/28/2018,Friday,Athlete 14,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,3,70,210,,,,0,0,,,,,7,,,,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/28/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,240,60,4,,,,,,9,,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/28/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,300,60,5,,,,8,Normatech
+3/28/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,300,60,5,,,,,,9,,"Normatech, Ice Bath/Cryotherapy, Game Ready"
+3/28/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,,,,,,9,,"Normatech, Stretching/Foam Rolling"
+3/28/2018,Thursday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,Away from Home,No,,,,,,,,,392,56,7,,,,,,5,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/28/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,,,,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/28/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,,,,360,60,6,,,,,,9,,I did not engage in any recovery modalities today
+3/28/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,180,60,3,,,8,8,"Normatech, Stretching/Foam Rolling"
+3/28/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,No,,Yes,4,5,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/28/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,200,40,5,360,60,6,350,70,5,,7,8,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/29/2018,Thursday,Athlete 15,Team 2,Yes,87,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,219,73,3,213,71,3,,,7,7,Stretching/Foam Rolling
+3/29/2018,Friday,Athlete 9,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/29/2018,Saturday,Athlete 6,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,6,70,420,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/29/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/29/2018,Friday,Athlete 16,Team 2,No,81,ReturningToPlay,,Yes,At my home location,No,,,,,,576,64,9,0,0,,280,35,8,,9,,9,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/29/2018,Friday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,Away from Home,No,,,5,35,175,,,,0,0,,,,,8,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/29/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,9,,,,Ice Bath/Cryotherapy
+3/29/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,8,45,360,,,,0,0,,,,,6,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/29/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,420,60,7,,,,8,Active Recovery (Walk/Cooldown)
+3/29/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,20,140,,,,0,0,,,,,7,,,,"Ice Bath/Cryotherapy, Game Ready"
+3/29/2018,Friday,Athlete 18,Team 2,Yes,100,New Injury,Sprain (ligament injury),Yes,Away from Home,No,,,8,70,560,,,,0,0,,,,,6,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/29/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/29/2018,Friday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/29/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/30/2018,Saturday,Athlete 9,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,10,70,,,,0,0,,,,,8,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/30/2018,Sunday,Athlete 6,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,70,490,,,,0,0,,,,,,,,,Ice Bath/Cryotherapy
+3/30/2018,Saturday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,Away from Home,No,,,7,45,315,,,,0,0,,,,,7,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/30/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,8,70,560,,,,0,0,,,,,9,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/30/2018,Saturday,Athlete 14,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,4,70,280,,,,0,0,,,,,8,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/30/2018,Saturday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,8,55,440,,,,0,0,,,,,7,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/30/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,5,70,350,,,,0,0,,,,,10,,,,I did not engage in any recovery modalities today
+3/30/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,6,15,90,,,,0,0,,,,,5,,,,Ice Bath/Cryotherapy
+3/30/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,8,60,480,,,,0,0,,,,,7,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/30/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/30/2018,Saturday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,164,41,4,0,0,,,,,,5,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/30/2018,Saturday,Athlete 3,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,75,525,,,,0,0,,,,,6,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+3/30/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/31/2018,Sunday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,Yes,7,2,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+3/31/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/31/2018,Sunday,Athlete 9,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,8,10,80,,,,0,0,,,,,8,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+3/31/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,No,,Yes,20,3,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+3/31/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,8,70,560,,,,0,0,,,,,8,,,,Ice Bath/Cryotherapy
+3/31/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/31/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+3/31/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+3/31/2018,Sunday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/1/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,7,15,105,,,,0,0,,,,,9,,,,Ice Bath/Cryotherapy
+4/1/2018,Sunday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,Away from Home,No,,,9,35,315,,,,0,0,,,,,6,,,,Ice Bath/Cryotherapy
+4/1/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,Yes,Away from Home,No,,,8,55,440,,,,0,0,,,,,6,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/1/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,Yes,5,5,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+4/1/2018,Monday,Athlete 6,Team 1,No,100,Healthy,,No,,Yes,24,5,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/1/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/1/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/1/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/1/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,150,30,5,0,0,,375,75,5,,8,,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/1/2018,Monday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/1/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,232,58,4,0,0,,240,60,4,,6,,6,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/2/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,No,,Yes,8,6,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+4/2/2018,Monday,Athlete 16,Team 2,No,86,ReturningToPlay,,Yes,At my home location,Yes,7,1,,,,320,40,8,0,0,,568,71,8,,8,,9,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/2/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,No,,Yes,19,5,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/2/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,No,,Yes,20,2,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/2/2018,Monday,Athlete 17,Team 2,Yes,100,Healthy,,No,,Yes,21,5,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/2/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,No,,Yes,24,5,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/2/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga"
+4/2/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/2/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,60,30,2,180,60,3,,,6,7,Stretching/Foam Rolling
+4/2/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+4/2/2018,Tuesday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,480,120,4,360,90,4,,,6,6,Stretching/Foam Rolling
+4/2/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,276,46,6,0,0,,300,60,5,,7,,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/2/2018,Tuesday,Athlete 3,Team 1,No,100,Healthy,,No,,Yes,12,3,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/3/2018,Tuesday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+4/3/2018,Thursday,Athlete 16,Team 2,No,87,ReturningToPlay,,Yes,At my home location,No,,,,,,217,31,7,405,45,9,,,,,9,8,,"Stretching/Foam Rolling, Massage, Game Ready"
+4/3/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,972,243,3,,,,,,10,,Normatech
+4/3/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,315,45,7,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+4/3/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/3/2018,Wednesday,Athlete 7,Team 1,Yes,100,New Injury,Sprain (ligament injury),No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/3/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,100,20,5,0,0,,240,60,4,,8,,8,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+4/3/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,104,26,4,0,0,,308,77,4,,6,,6,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+4/3/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,378,63,6,,,,8,Stretching/Foam Rolling
+4/3/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/3/2018,Thursday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,540,90,6,0,0,,360,60,6,,6,,5,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/3/2018,Wednesday,Athlete 3,Team 1,Yes,100,New Injury,Back Pain,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/4/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/4/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/4/2018,Wednesday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,540,180,2,,,,,,4,,Stretching/Foam Rolling
+4/4/2018,Wednesday,Athlete 17,Team 2,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/4/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,300,60,5,,,,7,"Hot Tub, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/4/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,396,44,9,0,0,,369,41,9,,10,,9,Stretching/Foam Rolling
+4/4/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,362,181,1,,,,,,9,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+4/4/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,360,45,8,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Massage"
+4/4/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,258,43,6,0,0,,581,83,7,,10,,10,"Contrast Bath, Stretching/Foam Rolling"
+4/4/2018,Thursday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/4/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,180,30,6,0,0,,354,59,6,,9,,9,Active Recovery (Walk/Cooldown)
+4/4/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,210,35,6,0,0,,,,,,8,,,"Contrast Bath, Stretching/Foam Rolling"
+4/4/2018,Friday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,406,58,7,0,0,,,,,,4,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/4/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/5/2018,Thursday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,1200,240,3,,,,,,7,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/5/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,Yes,Away from Home,No,,,,,,168,42,4,0,0,,,,,,5,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+4/5/2018,Thursday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,450,90,5,240,60,4,,,7,6,Stretching/Foam Rolling
+4/5/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,960,240,3,120,60,2,,,9,8,Stretching/Foam Rolling
+4/5/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/5/2018,Saturday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,1,1,1,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/5/2018,Saturday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,305,61,5,0,0,,,,,,5,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/5/2018,Saturday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/5/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,456,57,8,0,0,,488,61,8,,8,,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/5/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/5/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/5/2018,Friday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,600,120,5,,,,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/5/2018,Friday,Athlete 16,Team 2,No,91,ReturningToPlay,,Yes,At my home location,No,,,,,,248,31,8,450,45,10,513,57,9,,9,9,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/5/2018,Friday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,800,100,8,0,0,,225,45,5,,5,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/6/2018,Friday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,180,3,,,,,,7,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/6/2018,Saturday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/6/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,Yes,8,,,,,225,45,5,0,0,,,,,,7,,,I did not engage in any recovery modalities today
+4/6/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,960,240,3,,,,,,10,,"Normatech, Ice Bath/Cryotherapy"
+4/6/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,7,70,490,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+4/6/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,9,70,630,,,,0,0,,,,,9,,,,Stretching/Foam Rolling
+4/7/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,8,70,560,,,,0,0,,,,,7,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/7/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,7,35,245,,,,0,0,,,,,7,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+4/7/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,Yes,Away from Home,Yes,3,2,,,,,,,540,90,6,,,,,,9,,"Active Recovery (Walk/Cooldown), I did not engage in any recovery modalities today"
+4/7/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/7/2018,Saturday,Athlete 17,Team 2,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/7/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,6,55,330,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+4/7/2018,Monday,Athlete 3,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Hot Tub, Stretching/Foam Rolling"
+4/7/2018,Monday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/7/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Game Ready"
+4/7/2018,Sunday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/7/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Yoga, Stretching/Foam Rolling"
+4/8/2018,Sunday,Athlete 3,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub"
+4/8/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Yoga, Stretching/Foam Rolling"
+4/8/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/8/2018,Sunday,Athlete 11,Team 2,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/8/2018,Sunday,Athlete 17,Team 2,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/8/2018,Sunday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/8/2018,Monday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,275,55,5,,,6,7,"Active Recovery (Walk/Cooldown), Game Ready"
+4/8/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,20,20,1,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/8/2018,Tuesday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,476,119,4,,,,,,7,,"Yoga, Stretching/Foam Rolling"
+4/8/2018,Tuesday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,798,123,4,360,60,6,,,5,6,"Contrast Bath, Massage"
+4/8/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,847,121,5,510,85,6,,,8,9,"Contrast Bath, Stretching/Foam Rolling"
+4/8/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,600,120,3,138,46,3,,,7,9,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+4/9/2018,Monday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,300,60,5,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+4/9/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/9/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,Yes,8,6,,,,,,,1020,120,6,420,60,7,,,6,9,Ice Bath/Cryotherapy
+4/9/2018,Monday,Athlete 16,Team 2,No,92,ReturningToPlay,,Yes,At my home location,No,,,,,,342,38,9,441,49,9,456,57,8,,10,8,9,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+4/9/2018,Monday,Athlete 11,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,692,126,4,372,62,6,,,6,8,Stretching/Foam Rolling
+4/9/2018,Tuesday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,186,31,6,600,120,5,240,60,4,,4,6,7,Stretching/Foam Rolling
+4/9/2018,Monday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,1110,240,3,248,62,4,,,6,6,Stretching/Foam Rolling
+4/9/2018,Monday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,360,60,6,,,,6,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/9/2018,Wednesday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,,,,,,,,Contrast Bath
+4/9/2018,Tuesday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Ice Bath/Cryotherapy"
+4/9/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+4/9/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,414,145,2,518,74,7,,,8,9,"Contrast Bath, Stretching/Foam Rolling"
+4/9/2018,Tuesday,Athlete 11,Team 2,Yes,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/9/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,300,60,5,,,6,8,Contrast Bath
+4/9/2018,Tuesday,Athlete 3,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/9/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,120,3,260,65,4,,,8,10,Active Recovery (Walk/Cooldown)
+4/10/2018,Tuesday,Athlete 14,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,480,120,3,180,60,3,,,9,10,"Contrast Bath, Normatech, Stretching/Foam Rolling"
+4/10/2018,Tuesday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,120,3,232,58,4,,,6,6,"Active Recovery (Walk/Cooldown), Game Ready"
+4/10/2018,Tuesday,Athlete 16,Team 2,No,93,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,829,98,6,328,41,8,,,9,7,"Contrast Bath, Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Game Ready"
+4/10/2018,Tuesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,240,60,4,,,6,,"Active Recovery (Walk/Cooldown), Contrast Bath, Yoga, Stretching/Foam Rolling"
+4/10/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/10/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/10/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,420,60,7,,,9,9,"Contrast Bath, Stretching/Foam Rolling"
+4/10/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,100,50,2,,,,,,9,,Active Recovery (Walk/Cooldown)
+4/10/2018,Wednesday,Athlete 3,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Massage"
+4/10/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,153,51,3,,,,6,"Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+4/10/2018,Wednesday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,,,,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Yoga, Stretching/Foam Rolling"
+4/10/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,250,50,5,,,9,9,"Stretching/Foam Rolling, Massage"
+4/11/2018,Wednesday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,840,210,3,,,,,,5,,Stretching/Foam Rolling
+4/11/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Stretching/Foam Rolling, Massage"
+4/11/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/11/2018,Wednesday,Athlete 14,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,,,,,,10,,I did not engage in any recovery modalities today
+4/11/2018,Wednesday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,128,64,2,,,,,,8,,Normatech
+4/11/2018,Wednesday,Athlete 16,Team 2,No,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Normatech, Stretching/Foam Rolling"
+4/11/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+4/11/2018,Friday,Athlete 16,Team 2,No,93,ReturningToPlay,,Yes,At my home location,No,,,,,,333,37,9,0,0,,,,,,6,,,"Contrast Bath, Normatech, Stretching/Foam Rolling"
+4/11/2018,Thursday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,807,124,4,525,75,7,,,9,8,"Contrast Bath, Stretching/Foam Rolling"
+4/11/2018,Friday,Athlete 9,Team 1,No,46,Healthy,,Yes,At my home location,No,,,,,,,,,298,119,2,,,,,,8,,"Ice Bath/Cryotherapy, Game Ready"
+4/11/2018,Friday,Athlete 20,Team 2,No,23,ReturningToPlay,,Yes,At my home location,No,,,,,,325,65,5,0,0,,285,57,5,,8,,9,"Active Recovery (Walk/Cooldown), Hot Tub, Contrast Bath, Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+4/11/2018,Thursday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,840,120,5,250,50,5,,,6,7,"Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/11/2018,Thursday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,240,60,4,,,8,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/11/2018,Thursday,Athlete 3,Team 1,Yes,25,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,78,39,2,,,,,,8,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/11/2018,Thursday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,120,5,360,60,6,,,8,9,Normatech
+4/11/2018,Thursday,Athlete 9,Team 1,No,91,Healthy,,Yes,At my home location,No,,,,,,,,,460,115,3,180,45,4,,,7,8,"Stretching/Foam Rolling, Game Ready"
+4/11/2018,Thursday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,120,5,240,60,4,,,,,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+4/11/2018,Thursday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,180,45,4,,,8,10,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+4/12/2018,Thursday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,180,60,3,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/12/2018,Thursday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,468,117,4,,,,,,10,,"Normatech, Stretching/Foam Rolling"
+4/12/2018,Thursday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,900,120,5,420,60,7,,,7,7,Contrast Bath
+4/12/2018,Thursday,Athlete 14,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,244,61,4,543,121,3,,,,,9,9,,"Contrast Bath, Stretching/Foam Rolling"
+4/12/2018,Thursday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,480,120,4,180,60,3,,,5,6,Stretching/Foam Rolling
+4/12/2018,Thursday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,742,124,4,305,61,5,,,7,6,"Hot Tub, Normatech, Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/12/2018,Thursday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,120,2,300,60,5,,,,,Contrast Bath
+4/12/2018,Saturday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,5,70,350,,,,0,0,,,,,4,,,,Stretching/Foam Rolling
+4/12/2018,Saturday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/12/2018,Saturday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/12/2018,Saturday,Athlete 5,Team 1,No,100,Healthy,,Yes,Away from Home,Yes,2,2,8,70,560,,,,0,0,,,,,8,,,,Stretching/Foam Rolling
+4/12/2018,Saturday,Athlete 17,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/12/2018,Friday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,,,,,,7,,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/12/2018,Friday,Athlete 17,Team 2,Yes,100,Healthy,,Yes,At my home location,No,,,,,,,,,804,121,5,,,,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/12/2018,Friday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Hot Tub, Stretching/Foam Rolling"
+4/12/2018,Friday,Athlete 3,Team 1,Yes,26,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,235,47,5,,,,,,8,,"Active Recovery (Walk/Cooldown), Massage"
+4/12/2018,Friday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,930,135,4,,,,,,9,,"Contrast Bath, Normatech"
+4/12/2018,Friday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,420,60,7,153,51,3,,,,,9,8,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/12/2018,Friday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,982,119,6,354,59,6,,,9,8,"Contrast Bath, Stretching/Foam Rolling"
+4/12/2018,Friday,Athlete 7,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Stretching/Foam Rolling
+4/12/2018,Friday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,No,,Yes,10,,,,,,,,0,0,,,,,,,,,Ice Bath/Cryotherapy
+4/12/2018,Friday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,,,,,,,,"Active Recovery (Walk/Cooldown), Ice Bath/Cryotherapy"
+4/12/2018,Friday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,813,117,5,0,0,1,,,8,9,I did not engage in any recovery modalities today
+4/13/2018,Friday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,420,60,7,165,55,3,,,,,,5,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/13/2018,Friday,Athlete 1,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,740,110,5,,,,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage, Game Ready"
+4/13/2018,Sunday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,No,,Yes,7,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/13/2018,Sunday,Athlete 5,Team 1,No,100,Healthy,,No,,Yes,3,3,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/13/2018,Sunday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/13/2018,Saturday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/13/2018,Saturday,Athlete 3,Team 1,Yes,100,ReturningToPlay,,No,,Yes,1,0,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/13/2018,Saturday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/13/2018,Sunday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,348,58,6,,,,10,Stretching/Foam Rolling
+4/13/2018,Saturday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,5,70,350,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/14/2018,Saturday,Athlete 6,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/14/2018,Saturday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/14/2018,Saturday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/14/2018,Saturday,Athlete 1,Team 1,Yes,100,New Injury,Sprain (ligament injury),No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/14/2018,Saturday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,I did not engage in any recovery modalities today
+4/14/2018,Monday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,300,60,5,,,5,,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+4/14/2018,Monday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,626,179,2,240,60,4,,,5,6,Stretching/Foam Rolling
+4/14/2018,Sunday,Athlete 19,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Yoga, Stretching/Foam Rolling"
+4/14/2018,Sunday,Athlete 8,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/14/2018,Sunday,Athlete 1,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/14/2018,Sunday,Athlete 18,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/15/2018,Sunday,Athlete 12,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/15/2018,Sunday,Athlete 3,Team 1,Yes,100,ReturningToPlay,,No,,Yes,2,1,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/15/2018,Sunday,Athlete 11,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Active Recovery (Walk/Cooldown)
+4/15/2018,Sunday,Athlete 13,Team 2,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/15/2018,Sunday,Athlete 10,Team 1,No,100,Healthy,,No,,No,,,,,,,,,0,0,,,,,,,,,Hot Tub
+4/15/2018,Tuesday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,,,,360,90,4,240,60,4,,,5,5,Stretching/Foam Rolling
+4/15/2018,Tuesday,Athlete 16,Team 2,No,92,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,371,53,7,440,55,8,,,9,9,"Contrast Bath, Stretching/Foam Rolling, Game Ready"
+4/15/2018,Tuesday,Athlete 20,Team 2,No,77,ReturningToPlay,,Yes,At my home location,No,,,,,,150,30,5,0,0,,300,60,5,,7,,7,"Hot Tub, Contrast Bath, Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage, Game Ready"
+4/15/2018,Tuesday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,710,166,2,236,59,4,,,9,10,"Normatech, Stretching/Foam Rolling"
+4/15/2018,Monday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,120,3,184,46,4,,,8,9,"Active Recovery (Walk/Cooldown), Normatech, Stretching/Foam Rolling"
+4/15/2018,Monday,Athlete 3,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath"
+4/15/2018,Monday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,360,60,6,,,7,8,"Active Recovery (Walk/Cooldown), Contrast Bath, Normatech, Stretching/Foam Rolling, Massage"
+4/15/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,849,182,3,472,118,4,,,10,10,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/15/2018,Monday,Athlete 5,Team 1,No,50,Healthy,,Yes,At my home location,No,,,,,,,,,360,60,6,,,,,,8,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/15/2018,Monday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,300,60,5,,,7,8,Ice Bath/Cryotherapy
+4/15/2018,Monday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,420,120,2,240,60,4,,,8,8,Stretching/Foam Rolling
+4/15/2018,Monday,Athlete 7,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,122,1,240,60,4,,,10,10,"Contrast Bath, Normatech, Yoga"
+4/15/2018,Monday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,660,120,4,480,60,8,,,7,7,Contrast Bath
+4/15/2018,Monday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,540,120,3,180,60,3,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+4/16/2018,Monday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,854,122,5,420,60,7,,,9,9,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/16/2018,Monday,Athlete 14,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,493,123,3,244,61,4,,,8,9,"Contrast Bath, Stretching/Foam Rolling"
+4/16/2018,Monday,Athlete 20,Team 2,No,75,ReturningToPlay,,Yes,At my home location,No,,,,,,325,65,5,0,0,,595,119,5,,7,,7,"Normatech, Stretching/Foam Rolling, Massage"
+4/16/2018,Monday,Athlete 1,Team 1,No,25,Healthy,,Yes,At my home location,No,,,,,,,,,0,0,,180,60,3,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath"
+4/16/2018,Monday,Athlete 9,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,873,134,4,280,56,5,,,7,9,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/16/2018,Monday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,348,58,6,244,61,4,,,7,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/16/2018,Wednesday,Athlete 5,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,,,,,,8,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Massage"
+4/16/2018,Tuesday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,23,23,1,14,14,1,,,,,I did not engage in any recovery modalities today
+4/16/2018,Wednesday,Athlete 15,Team 2,Yes,100,ReturningToPlay,,Yes,Away from Home,No,,,,,,300,60,5,724,181,3,,,,,4,5,,Stretching/Foam Rolling
+4/16/2018,Tuesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,840,120,5,240,60,4,,,5,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/16/2018,Tuesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,960,120,5,427,61,7,,,8,9,"Contrast Bath, Stretching/Foam Rolling"
+4/16/2018,Tuesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,780,120,4,192,64,3,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+4/16/2018,Tuesday,Athlete 17,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,928,116,5,240,60,4,,,,7,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/16/2018,Tuesday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,872,125,5,384,64,6,,,5,8,Ice Bath/Cryotherapy
+4/16/2018,Tuesday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,840,120,5,300,60,5,,,7,8,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/16/2018,Tuesday,Athlete 3,Team 1,Yes,22,ReturningToPlay,,Yes,At my home location,No,,,,,,,,,0,0,,168,42,4,,,,7,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+4/16/2018,Tuesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,260,65,4,,,7,9,"Active Recovery (Walk/Cooldown), Normatech, Ice Bath/Cryotherapy"
+4/17/2018,Tuesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,720,120,4,300,60,5,,,5,7,I did not engage in any recovery modalities today
+4/17/2018,Tuesday,Athlete 1,Team 1,No,25,Healthy,,Yes,At my home location,No,,,,,,60,30,2,60,60,1,,,,,,,,"Active Recovery (Walk/Cooldown), Contrast Bath, Stretching/Foam Rolling"
+4/17/2018,Tuesday,Athlete 5,Team 1,No,50,Healthy,,Yes,At my home location,No,,,,,,,,,991,174,3,,,,,,6,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/17/2018,Tuesday,Athlete 9,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,939,125,5,330,66,5,,,8,8,"Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/17/2018,Wednesday,Athlete 16,Team 2,No,96,ReturningToPlay,,Yes,At my home location,Yes,1,0,,,,,,,788,104,5,8,8,1,,,9,6,"Contrast Bath, Stretching/Foam Rolling, Game Ready"
+4/17/2018,Wednesday,Athlete 6,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,840,120,5,300,60,5,,,,,Contrast Bath
+4/17/2018,Wednesday,Athlete 19,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,,,,,,9,,"Contrast Bath, Stretching/Foam Rolling"
+4/17/2018,Wednesday,Athlete 12,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,,,,,,9,,Ice Bath/Cryotherapy
+4/17/2018,Wednesday,Athlete 11,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,162,54,3,,,,,,8,,Massage
+4/17/2018,Wednesday,Athlete 1,Team 1,Yes,100,ReturningToPlay,,No,,No,,,,,,,,,0,0,,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy"
+4/17/2018,Wednesday,Athlete 13,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,180,60,3,,,,,,,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/17/2018,Wednesday,Athlete 18,Team 2,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,120,60,2,,,,,,9,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling"
+4/17/2018,Wednesday,Athlete 8,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,240,60,4,,,,,,8,,"Active Recovery (Walk/Cooldown), Stretching/Foam Rolling, Ice Bath/Cryotherapy, Massage"
+4/17/2018,Wednesday,Athlete 10,Team 1,No,100,Healthy,,Yes,At my home location,No,,,,,,,,,300,60,5,,,,,,8,,Contrast Bath
