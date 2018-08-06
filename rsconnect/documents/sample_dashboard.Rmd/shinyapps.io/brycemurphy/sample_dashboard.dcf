@@ -5,8 +5,8 @@ account: brycemurphy
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 395676
-bundleId: 1519774
+bundleId: 1519782
 url: https://brycemurphy.shinyapps.io/sample_dashboard/
-when: 1533516905.9341
+when: 1533517424.66992
 asMultiple: FALSE
 asStatic: FALSE
