@@ -390,7 +390,7 @@ wellness_clean <-
   wellness_clean %>%
   arrange(desc(wellness_clean$date))
 
-selectInput("date",
+selectInput("date_daily",
           label = NULL,
           choices = wellness_clean$date,
           selected = format(latest_wellness_date, 
@@ -446,13 +446,11 @@ renderPlot({
   
 wellness_daily <- 
   wellness_clean %>%
-  group_by(date, athlete) %>%
-  filter(date == input$date)
+  filter(date == input$date_daily)
 
 wellness_individual <-
-  wellness_clean %>%
-  group_by(date, athlete) %>%
-  filter(date == input$date,
+  wellness_clean  %>%
+  filter(date == input$date_daily,
          athlete == input$athlete) %>%
   select(date, athlete, sleep_quality_z, mood_z, readiness_to_train_z, soreness_z, stress_z, fatigue_z, sleep_hours_z) %>%
   rename(`Sleep Quality` = sleep_quality_z,
