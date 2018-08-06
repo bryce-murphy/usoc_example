@@ -103,6 +103,20 @@ alert <-
 training$Date <- mdy(training$Date)
 training$Weekday <- weekdays(training$Date)
 
+training_gather <-
+  training %>%
+  gather(key = training_var, value = measurement, -c(1:11, 30))
+
+# Fix duplicates
+training <-
+  training_gather %>%
+  group_by(Athlete, Date, Weekday, Team, `Injury/Illness Status`, `Training Availability`, `Injury First Time Report`,
+           `Injury Type`, `Training/NoTraining`, `Training Location`, `Travel/No Travel`, `Recovery Modality`, training_var) %>%
+  summarise_at(vars(matches("measurement")), mean) %>%
+  ungroup() %>%
+  spread(key = training_var, value = measurement)
+  
+
 training_clean <-
   training %>%
   clean_names() %>%
@@ -492,3 +506,20 @@ wellness_individual <-
 ```
 
 ### Training Load
+
+```{r echo = FALSE}
+
+DT::renderDataTable({
+
+  load_table <-
+    training_clean %>%
+    filter(date == input$date) %>%
+    select(athlete, team, injury_illness_status, training_availability, competition_load_z, practice_load_z, strength_load_z, conditioning_load_z)
+
+  datatable(load_table, filter = "top", options = list(pageLength = 15),
+            colnames = c("Athlete" = 2, "Team" = 3, "Injury/Illness Status" = 4, "Training Availability" = 5, 
+                         "Competition TL" = 6, "Practice TL" = 7, "Strength TL" = 8, "Conditioning TL" = 9))
+
+})
+
+```
