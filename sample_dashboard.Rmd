@@ -25,7 +25,7 @@ library(gridExtra)
 ```
 
 
-
+<!-- WELLNESS DATA -->
 ```{r message = FALSE, echo = FALSE}
 
 
@@ -39,6 +39,7 @@ training <- read_csv(path_2)
                                                                 ##### DATA CLEANING #####
 # Change date to a date format using lubridate
 wellness$Date <- mdy(wellness$Date)
+wellness$Weekday <- weekdays(wellness$Date)
 
 
 # Fix the 0's in the scale
@@ -94,12 +95,25 @@ alert <-
   select(date, athlete, sleep_quality_z, mood_z, readiness_to_train_z, soreness_z, stress_z, fatigue_z) %>%
   gather(key = wellness_var, value = z_score, -c(date, athlete))
 
-# TEAM 1 WELLNESS
+```
 
+<!-- TRAINING LOAD DATA -->
+``` {r message = FALSE, echo = FALSE}
 
+training$Date <- mdy(training$Date)
+training$Weekday <- weekdays(training$Date)
 
-# TEAM 2 WELLNESS
-
+training_clean <-
+  training %>%
+  clean_names() %>%
+  mutate_if(is.integer, replace_na, 0) %>%
+  mutate(competition_load_z = round(ave(competition_load, athlete, FUN = scale), digits = 2),
+         conditioning_load_z = round(ave(conditioning_load, athlete, FUN = scale), digits = 2),
+         practice_load_z = round(ave(practice_load, athlete, FUN = scale), digits = 2),
+         strength_load_z = round(ave(strength_load, athlete, FUN = scale), digits = 2)) %>%
+  mutate_at(.vars = c("competition_load_z", "conditioning_load_z", "practice_load_z", "strength_load_z"), replace_na, 0)
+    
+        
 ```
 
 Team Overview
@@ -112,7 +126,9 @@ Column {.sidebar}
 ```{r echo = FALSE}
 
 latest_wellness_date <- max(wellness_clean$date)
+
 wellness_date_format <- "%b %d %Y"
+
 wellness_clean <-
   wellness_clean %>%
   arrange(desc(wellness_clean$date))
@@ -124,6 +140,15 @@ selectInput("date",
                             format = wellness_date_format))
 
 
+```
+
+```{r include=FALSE}
+
+wellness_date <-
+  reactive({
+  mdy(input$date)
+  
+})
 ```
 
 ### Wellness Alert(s) 
@@ -152,15 +177,74 @@ for (i in 1:length(alert$athlete)) {
 ### High Load Alert(s)
 ```{r echo = FALSE}
 
+renderPrint({
+  
+  alert <- 
+    training_clean %>%
+    filter(date == input$date) %>%
+    select(date, athlete, competition_load_z, conditioning_load_z, practice_load_z, strength_load_z) %>%
+    gather(key = training_var, value = z_score, -c(date, athlete))
+  
+  for (i in 1:length(alert$athlete)) {
+   if (alert$z_score[[i]] > 1.5) {
+  print(paste(alert$athlete[[i]], "-", alert$training_var[[i]]))
+ } 
+}
+    
+})
+
 ```
 
 
 ### Low Load Alert(s)
 ```{r echo = FALSE}
 
+renderPrint({
+  
+  alert <- 
+    training_clean %>%
+    filter(date == input$date) %>%
+    select(date, athlete, competition_load_z, conditioning_load_z, practice_load_z, strength_load_z) %>%
+    gather(key = training_var, value = z_score, -c(date, athlete))
+  
+  for (i in 1:length(alert$athlete)) {
+   if (alert$z_score[[i]] < -1.5) {
+  print(paste(alert$athlete[[i]], "-", alert$training_var[[i]]))
+ } 
+}
+    
+})
+
 ```
 
-Row{.tabset .tabset-fade}
+### Injury Alert(s)
+```{r echo = FALSE}
+
+renderPrint({
+  
+  alert <- 
+    training_clean %>%
+    filter(date == input$date) %>%
+    select(date, athlete, injury_illness_status, training_availability, injury_type, injury_illness_status) 
+  
+  for (i in 1:length(alert$athlete)) {
+   if (alert$training_availability[[i]] < 100) {
+  print(paste(alert$athlete[[i]], "-", alert$injury_illness_status[[i]])) 
+     
+   }
+  }
+ 
+  for (i in 1:length(alert$athlete)) {
+    if (alert$injury_illness_status[[i]] == "New Injury") {
+   print(paste(alert$athlete[[i]], "-", alert$injury_type[[i]]))
+    }
+  }
+  
+})
+
+```
+
+Row
 ----------------------
 
 ### Wellness
@@ -204,7 +288,8 @@ team_wellness$zcolors <- sapply(1:length(team_wellness$`Daily Wellness`), functi
            date == input$date) %>%
     gather(key = wellness_var, value = z_score, -c(team, date, zcolors, sleep_hours))
   
-  
+  # Reorder by z score
+  team_1_wellness$wellness_var <- reorder(team_1_wellness$wellness_var, -team_1_wellness$z_score)
   
   plot_1 <-  ggplot(team_1_wellness, aes(x = wellness_var, y = z_score, fill = z_score)) +
       geom_bar(stat = "identity", color = "black") +
@@ -229,9 +314,11 @@ team_wellness$zcolors <- sapply(1:length(team_wellness$`Daily Wellness`), functi
            date == input$date) %>%
     gather(key = wellness_var, value = z_score, -c(team, date, zcolors, sleep_hours))
   
+  # Reorder by z score
+  team_2_wellness$wellness_var <- reorder(team_2_wellness$wellness_var, -team_2_wellness$z_score)
   
-  
-  plot_2  <- ggplot(team_2_wellness, aes(x = wellness_var, y = z_score, fill = z_score)) +
+  plot_2  <- 
+    ggplot(team_2_wellness, aes(x = wellness_var, y = z_score, fill = z_score)) +
       geom_bar(stat = "identity", color = "black") +
       scale_fill_identity() +
       geom_rect(aes(ymin = -Inf, ymax = -1.5, xmin = -Inf, xmax = Inf), fill = "pink", alpha = 1/100) +
@@ -244,6 +331,7 @@ team_wellness$zcolors <- sapply(1:length(team_wellness$`Daily Wellness`), functi
            y = "Scaled Wellness < 0 is below their average",
            x = "") +
       coord_flip()
+    
   
  grid.arrange(plot_1, plot_2, ncol = 2)
   
@@ -252,20 +340,155 @@ team_wellness$zcolors <- sapply(1:length(team_wellness$`Daily Wellness`), functi
 ```
 
 
+Row
+------------------------------
 
-### Training Load
+```{r echo = FALSE}
 
-```{ r echo = FALSE}
+DT::renderDataTable({
+
+  table <-
+    wellness_clean %>%
+    filter(date == input$date) %>%
+    select(athlete, team, fatigue, mood, readiness_to_train, sleep_hours, sleep_quality, soreness)
+
+  datatable(table, filter = "top", options = list(pageLength = 5),
+            colnames = c("Athlete" = 2, "Team" = 3, "Fatigue" = 4, "Mood" = 5, "Readiness to Train" = 6,
+                         "Sleep Hours" = 7, "Sleep Quality" = 8, "Soreness" = 9))
+
+})
 
 ```
 
-
-Row 
-------------------------------
-
+Individual 
+==================================
 
 
+Column {.sidebar}
+----------------------------------
+
+### Choose Date: {data-height=100}
+```{r echo = FALSE}
+
+latest_wellness_date <- max(wellness_clean$date)
+wellness_date_format <- "%b %d %Y"
+wellness_clean <-
+  wellness_clean %>%
+  arrange(desc(wellness_clean$date))
+
+selectInput("date",
+          label = NULL,
+          choices = wellness_clean$date,
+          selected = format(latest_wellness_date, 
+                            format = wellness_date_format))
 
 
+```
+
+### Choose Athlete: 
+```{r echo = FALSE}
+
+selectizeInput("athlete",
+            label = NULL,
+            choices = wellness_clean$athlete,
+            multiple = T,
+            selected = "Athlete 8",
+            options = list(maxItems = 1))
+
+```
+
+### Wellness Alert(s) 
+### < 1.5 {data-height=200}
+```{r echo = FALSE}
 
 
+renderPrint({
+
+alert <- 
+  wellness_clean %>%
+  filter(date == input$date) %>%
+  select(date, athlete, sleep_quality_z, mood_z, readiness_to_train_z, soreness_z, stress_z, fatigue_z, sleep_hours_z) %>%
+  gather(key = wellness_var, value = z_score, -c(date, athlete))
+
+for (i in 1:length(alert$athlete)) {
+   if (alert$z_score[[i]] < -1.5) {
+  print(paste(alert$athlete[[i]], "-", alert$wellness_var[[i]]))
+ } 
+}
+
+})
+
+```
+
+Row{.tabset .tabset-fade}
+----------------------
+
+### Wellness
+
+```{r echo = FALSE}
+
+
+renderPlot({
+  
+wellness_daily <- 
+  wellness_clean %>%
+  group_by(date, athlete) %>%
+  filter(date == input$date)
+
+wellness_individual <-
+  wellness_clean %>%
+  group_by(date, athlete) %>%
+  filter(date == input$date,
+         athlete == input$athlete) %>%
+  select(date, athlete, sleep_quality_z, mood_z, readiness_to_train_z, soreness_z, stress_z, fatigue_z, sleep_hours_z) %>%
+  rename(`Sleep Quality` = sleep_quality_z,
+         Mood = mood_z,
+         `Readiness to Train` = readiness_to_train_z,
+         Soreness = soreness_z,
+         Stress = stress_z,
+         Fatigue = fatigue_z,
+         `Sleep Hours` = sleep_hours_z) %>%
+  gather(key = wellness_var, value = z_score, -c(date, athlete))
+
+# Set ordering by daily_wellness_z
+  wellness_daily$athlete <- reorder(wellness_daily$athlete, -wellness_daily$daily_wellness_z)
+  
+ all_individuals <- 
+   ggplot(wellness_daily, aes(x = athlete, y = daily_wellness_z, fill = daily_wellness_z)) +
+      geom_bar(stat = "identity", color = "black") +
+      scale_fill_identity() +
+      geom_rect(aes(ymin = -Inf, ymax = -1.5, xmin = -Inf, xmax = Inf), fill = "pink", alpha = 1/100) +
+      geom_rect(aes(ymin = -1.5, ymax = 0, xmin = -Inf, xmax = Inf), fill = "yellow", alpha = 1/100) +
+      geom_rect(aes(ymin = 0, ymax = Inf, xmin = -Inf, xmax = Inf), fill = "green", alpha = 1/100) +
+      scale_fill_gradient2(low = "red", mid = "yellow", high = "green", midpoint = 0, limits = c(-3.0, 3.0), guide = F) +
+      theme_minimal() +
+      labs(title = "Daily Wellness",
+           y = "Scaled Wellness < 0 is below their average",
+           x = "") +
+      coord_flip()
+ 
+ # Set ordering by z_score
+ wellness_individual$wellness_var <- reorder(wellness_individual$wellness_var, -wellness_individual$z_score)
+ 
+ individual <-
+  ggplot(wellness_individual, aes(x = wellness_var, y = z_score, fill = z_score)) +
+      geom_bar(stat = "identity", color = "black") +
+      scale_fill_identity() +
+      geom_rect(aes(ymin = -Inf, ymax = -1.5, xmin = -Inf, xmax = Inf), fill = "pink", alpha = 1/100) +
+      geom_rect(aes(ymin = -1.5, ymax = 0, xmin = -Inf, xmax = Inf), fill = "yellow", alpha = 1/100) +
+      geom_rect(aes(ymin = 0, ymax = Inf, xmin = -Inf, xmax = Inf), fill = "green", alpha = 1/100) +
+      scale_fill_gradient2(low = "red", mid = "yellow", high = "green", midpoint = 0, limits = c(-3.0, 3.0), guide = F) +
+      theme_minimal() +
+      labs(title = paste("Daily Wellness of", input$athlete),
+           y = "Scaled Wellness < 0 is below their average",
+           x = "") +
+      coord_flip()
+ 
+ grid.arrange(all_individuals, individual, nrow = 2)
+  
+ 
+})
+  
+```
+
+### Training Load
