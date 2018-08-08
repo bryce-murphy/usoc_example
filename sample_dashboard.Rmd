@@ -420,7 +420,7 @@ renderPrint({
 
 alert <- 
   wellness_clean %>%
-  filter(date == input$date) %>%
+  filter(date == input$date_daily) %>%
   select(date, athlete, sleep_quality_z, mood_z, readiness_to_train_z, soreness_z, stress_z, fatigue_z, sleep_hours_z) %>%
   gather(key = wellness_var, value = z_score, -c(date, athlete))
 
@@ -511,7 +511,7 @@ DT::renderDataTable({
 
   load_table <-
     training_clean %>%
-    filter(date == input$date) %>%
+    filter(date == input$date_daily) %>%
     select(athlete, team, injury_illness_status, training_availability, competition_load_z, practice_load_z, strength_load_z, conditioning_load_z)
 
   datatable(load_table, filter = "top", options = list(pageLength = 15),
